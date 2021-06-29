@@ -1,12 +1,12 @@
-# babel 介绍
+# Babel 介绍
 
-## babel 用途
+## Babel 用途
 
 * 转译esnext jsx ts等到目标环境支持的js
 * 做特定用途转换（例如函数插入特定代码）
 * 对代码结构分析检查
 
-## babel source to source转换
+## Babel source to source转换
 * 通过 parser 把源码转成抽象语法树（AST）
 
     - 词法分析 把代码细分成无法再拆的token

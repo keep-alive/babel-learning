@@ -1,4 +1,4 @@
-# babel学习过程中的总结
+# Babel学习过程中的总结
 
 ## 目录如下
 
@@ -6,14 +6,14 @@
 
 * babel api
 
-    + [@babel/parser](./api/parser.md)
+    + [@babel/parser](./api/parser/index.md)
 
-    + [@babel/traverse](./api/traverse.md)
+    + [@babel/traverse](./api/traverse/index.md)
 
-    + [@babel/types](./api/types.md)
+    + [@babel/types](./api/types/index.md)
 
-    + [@babel/template](./api/template)
+    + [@babel/template](./api/template/index.md)
 
-    + [@babel/generator](./api/generator)
+    + [@babel/generator](./api/generator/index.md)
 
 * 案例

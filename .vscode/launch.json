@@ -5,9 +5,54 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "node",
+            "request": "launch",
+            "name": "parser",
+            "program": "${workspaceFolder}/api/parser/parser.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "traverse",
+            "program": "${workspaceFolder}/api/traverse/traverse.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "types",
+            "program": "${workspaceFolder}/api/types/types.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "template",
+            "program": "${workspaceFolder}/api/template/template.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "generator",
+            "program": "${workspaceFolder}/api/generator/generator.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
+        {
             "type": "pwa-node",
             "request": "launch",
-            "name": "LaunchIndex",
+            "name": "run",
             "skipFiles": [
                 "<node_internals>/**"
             ],
