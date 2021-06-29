@@ -1,0 +1,23 @@
+{
+  "name": "babel-learning",
+  "version": "1.0.0",
+  "description": "babel-learning",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.14.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keep-alive/babel-learning.git"
+  },
+  "author": "keep-alive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keep-alive/babel-learning/issues"
+  },
+  "homepage": "https://github.com/keep-alive/babel-learning#readme"
+}
