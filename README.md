@@ -12,6 +12,6 @@
     + [@babel/template](./api/template/index.md)
     + [@babel/generator](./api/generator/index.md)
 
-* [babel plugin](./plugins/README.md)
+* [babel plugin](./plugins/plugins.md)
 * 案例
     + [混淆压缩](./src/minimize)
