@@ -7,13 +7,11 @@
 * babel api
 
     + [@babel/parser](./api/parser/index.md)
-
     + [@babel/traverse](./api/traverse/index.md)
-
     + [@babel/types](./api/types/index.md)
-
     + [@babel/template](./api/template/index.md)
-
     + [@babel/generator](./api/generator/index.md)
 
+* [babel plugin](./plugins/README.md)
 * 案例
+    + [混淆压缩](./src/minimize)
